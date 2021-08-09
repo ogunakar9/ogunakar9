@@ -9,6 +9,10 @@
 
 - 🌱 I’m currently learning **about Stripe and using Redux for E-commerce apps.**
 
+- 🤝 I have completed 2 freelance projects for professionals. Here you may find the links to my fully responsive React projects.
+    * Aksoy & Erdoğan Law Firm: [https://www.aksoyerdogan.com/](https://www.aksoyerdogan.com/)
+    * Nuray Kaya Gürpınar LL.M.: [https://av-nkg.com/](https://av-nkg.com/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ogunakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogunakar" height="30" width="40" /></a>
