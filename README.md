@@ -152,8 +152,8 @@
             viewBox="0 0 38 57"
             class="figma-1p2i2oq"
             aria-label="Homepage"
-            width="40px" 
-            height="40px"
+            width="40" 
+            height="40"
           >
             <path
               fill="#1abcfe"
