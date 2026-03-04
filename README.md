@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ogun.</h1>
-<h3 align="center">I am a frontend developer with experience in working with TypeScript and React during which I developed and contributed to applications in Microfrontend architecture. I value agile development methodologies, accessibility, modularity and always try to follow the best practices. I am eager to comply with TDD and aim to keep a high percentage of test coverage in my code. I am currently seeking a full-time position as a Frontend developer where I can apply my knowledge and skills for continuous improvement. </h3>
+<h3 align="center">I am a software developer with experience in working with TypeScript and React during which I developed and contributed to applications in Microfrontend architecture. I value agile development methodologies, accessibility, modularity and always try to follow the best practices. I am eager to comply with TDD and aim to keep a high percentage of test coverage in my code. I am currently seeking a full-time position as a Frontend developer where I can apply my knowledge and skills for continuous improvement. </h3>
 
  🔭 Some of the tools and technologies I am familiar with:
 - TypeScript and React
